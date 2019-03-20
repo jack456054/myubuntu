@@ -1,4 +1,4 @@
-# Install Zsh and Oh-My-Zsh in Ubuntu
+# Install Zsh and Oh-My-Zsh on Ubuntu
 
 ## Install Zsh on Ubuntu:
 ```
