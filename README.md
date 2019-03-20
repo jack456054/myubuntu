@@ -53,4 +53,4 @@ $ source ~/.zshrc
 ```
 $ chsh -s $(which zsh)
 ```
-Note: Need to log out and log into activate.
+Note: Need to log out and log in again.
